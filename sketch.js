@@ -118,7 +118,7 @@ function Ball(_x, _y, _label,_price) {
 	 fill('lightgray')
 	 rect(width/2-12,height/2,300,55)
 	 fill('#2F2F2F')
-	 text('How much is the fruit?',width/2,height/2+20);
+	 text('How much is it?',width/2+40,height/2+20);
 
 	 fill('#2F2F2F')
 	 text('Click to discover',width/2+30,height/2+45);
