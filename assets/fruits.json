@@ -1,0 +1,85 @@
+{
+    "number" : 5,
+  "fruits" : [
+    {
+      "name" : "Apple",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Red_Apple.jpg/265px-Red_Apple.jpg",
+      "price" : 2.10
+    },
+    {
+      "name" : "Banana",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg",
+      "price" : 3.20
+    },
+
+    {
+      "name" : "Lemon",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bananas_white_background_DS.jpg/320px-Bananas_white_background_DS.jpg",
+      "price" : 1.50
+    },
+    {
+      "name" : "Grapes",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "weight": 0.1,
+      "price" : 3.90
+    },
+
+    {
+      "name" : "Peach",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "weight": 0.1,
+      "price" : 2.50
+    },
+
+        {
+          "name" : "Coconut",
+          "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+          "weight": 0.1,
+          "price" : 4.70
+        },
+
+        {
+          "name" : "Mango",
+          "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+          "weight": 0.1,
+          "price" : 3.20
+        },
+
+        {
+          "name" : "Blackberry",
+          "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+          "weight": 0.1,
+          "price" : 5.10
+        },
+
+        {
+          "name" : "Cherry",
+          "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+          "weight": 0.1,
+          "price" : 4.30
+        },
+
+
+
+
+    {
+      "name" : "Orange",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "weight": 0.1,
+      "price" : 4.10
+    },
+
+    {
+      "name" : "Strawberry",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Table_grapes_on_white.jpg/320px-Table_grapes_on_white.jpg",
+      "weight": 0.1,
+      "price" : 4.40
+    },
+
+    {
+      "name" : "Pineapple",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/286px-Pineapple_and_cross_section.jpg",
+      "price" : 5.80
+    }
+  ]
+}
